@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1789699327965302}
+  m_IsPrefabAsset: 1
+--- !u!1 &1789699327965302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4994741818203900}
+  - component: {fileID: 114491195536433918}
+  - component: {fileID: 114401712142995118}
+  m_Layer: 0
+  m_Name: PlayerController
+  m_TagString: PlayerController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4994741818203900
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789699327965302}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114401712142995118
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789699327965302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2de7748f8c837147a42247907860610, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heroPrefab: {fileID: 1961193222859338, guid: f7fdb479a9b7abe42ad43f36861abe15, type: 2}
+  basePrefab: {fileID: 1870259260850284, guid: b43e118aa64881c4ea5cf5816be1ad64, type: 2}
+  meleeMinionPrefab: {fileID: 1293026733904814, guid: 2b8d61693bc741e4a897d6a674b7574f,
+    type: 2}
+  rangeMinionPrefab: {fileID: 1567519697671114, guid: 8f13128a43e5fc740b532aacefb39edb,
+    type: 2}
+  meleeTowerPrefab: {fileID: 1248017693316440, guid: 62e7872d24a0a7f46a0572f83256ad81,
+    type: 2}
+  rangeTowerPrefab: {fileID: 1249414915078170, guid: 6d2a0ee615179b04ab34111e9a2fd906,
+    type: 2}
+  arrowPrefab: {fileID: 1233499365527466, guid: 038b7e23eea0e3e4b8b586aa0487b263,
+    type: 2}
+  gold: 0
+--- !u!114 &114491195536433918
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789699327965302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 61
+    i1: 75
+    i2: 249
+    i3: 40
+    i4: 10
+    i5: 179
+    i6: 208
+    i7: 36
+    i8: 249
+    i9: 48
+    i10: 166
+    i11: 218
+    i12: 90
+    i13: 198
+    i14: 95
+    i15: 94
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1

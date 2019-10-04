@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 19eb6a43be9df954baf69d48836a78f4
+timeCreated: 1521218650
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pause
+    21300002: sheet_white2x_1
+    21300004: sheet_white2x_2
+    21300006: sheet_white2x_3
+    21300008: sheet_white2x_4
+    21300010: sheet_white2x_5
+    21300012: sheet_white2x_6
+    21300014: sheet_white2x_7
+    21300016: sheet_white2x_8
+    21300018: sheet_white2x_9
+    21300020: sheet_white2x_10
+    21300022: sheet_white2x_11
+    21300024: sheet_white2x_12
+    21300026: sheet_white2x_13
+    21300028: sheet_white2x_14
+    21300030: sheet_white2x_15
+    21300032: sheet_white2x_16
+    21300034: sheet_white2x_17
+    21300036: sheet_white2x_18
+    21300038: sheet_white2x_19
+    21300040: sheet_white2x_20
+    21300042: sheet_white2x_21
+    21300044: sheet_white2x_22
+    21300046: sheet_white2x_23
+    21300048: sheet_white2x_24
+    21300050: sheet_white2x_25
+    21300052: sheet_white2x_26
+    21300054: sheet_white2x_27
+    21300056: sheet_white2x_28
+    21300058: sheet_white2x_29
+    21300060: sheet_white2x_30
+    21300062: sheet_white2x_31
+    21300064: sheet_white2x_32
+    21300066: sheet_white2x_33
+    21300068: sheet_white2x_34
+    21300070: sheet_white2x_35
+    21300072: sheet_white2x_36
+    21300074: sheet_white2x_37
+    21300076: sheet_white2x_38
+    21300078: sheet_white2x_39
+    21300080: sheet_white2x_40
+    21300082: sheet_white2x_41
+    21300084: sheet_white2x_42
+    21300086: sheet_white2x_43
+    21300088: sheet_white2x_44
+    21300090: sheet_white2x_45
+    21300092: sheet_white2x_46
+    21300094: sheet_white2x_47
+    21300096: sheet_white2x_48
+    21300098: sheet_white2x_49
+    21300100: sheet_white2x_50
+    21300102: sheet_white2x_51
+    21300104: sheet_white2x_52
+    21300106: sheet_white2x_53
+    21300108: sheet_white2x_54
+    21300110: sheet_white2x_55
+    21300112: sheet_white2x_56
+    21300114: sheet_white2x_57
+    21300116: sheet_white2x_58
+    21300118: sheet_white2x_59
+    21300120: sheet_white2x_60
+    21300122: sheet_white2x_61
+    21300124: sheet_white2x_62
+    21300126: sheet_white2x_63
+    21300128: sheet_white2x_64
+    21300130: sheet_white2x_65
+    21300132: sheet_white2x_66
+    21300134: sheet_white2x_67
+    21300136: sheet_white2x_68
+    21300138: sheet_white2x_69
+    21300140: sheet_white2x_70
+    21300142: sheet_white2x_71
+    21300144: sheet_white2x_72
+    21300146: sheet_white2x_73
+    21300148: sheet_white2x_74
+    21300150: sheet_white2x_75
+    21300152: sheet_white2x_76
+    21300154: sheet_white2x_77
+    21300156: sheet_white2x_78
+    21300158: sheet_white2x_79
+    21300160: sheet_white2x_80
+    21300162: sheet_white2x_81
+    21300164: sheet_white2x_82
+    21300166: sheet_white2x_83
+    21300168: sheet_white2x_84
+    21300170: sheet_white2x_85
+    21300172: sheet_white2x_86
+    21300174: sheet_white2x_87
+    21300176: sheet_white2x_88
+    21300178: sheet_white2x_89
+    21300180: sheet_white2x_90
+    21300182: sheet_white2x_91
+    21300184: sheet_white2x_92
+    21300186: sheet_white2x_93
+    21300188: sheet_white2x_94
+    21300190: sheet_white2x_95
+    21300192: sheet_white2x_96
+    21300194: sheet_white2x_97
+    21300196: sheet_white2x_98
+    21300198: sheet_white2x_99
+    21300200: sheet_white2x_100
+    21300202: sheet_white2x_101
+    21300204: sheet_white2x_102
+    21300206: sheet_white2x_103
+    21300208: sheet_white2x_104
+    21300210: sheet_white2x_105
+    21300212: sheet_white2x_106
+    21300214: sheet_white2x_107
+    21300216: sheet_white2x_108
+    21300218: sheet_white2x_109
+    21300220: sheet_white2x_110
+    21300222: sheet_white2x_111
+    21300224: sheet_white2x_112
+    21300226: sheet_white2x_113
+    21300228: sheet_white2x_114
+    21300230: sheet_white2x_115
+    21300232: sheet_white2x_116
+    21300234: sheet_white2x_117
+    21300236: sheet_white2x_118
+    21300238: sheet_white2x_119
+    21300240: sheet_white2x_120
+    21300242: sheet_white2x_121
+    21300244: sheet_white2x_122
+    21300246: sheet_white2x_123
+    21300248: sheet_white2x_124
+    21300250: sheet_white2x_125
+    21300252: sheet_white2x_126
+    21300254: sheet_white2x_127
+    21300256: sheet_white2x_128
+    21300258: sheet_white2x_129
+    21300260: sheet_white2x_130
+    21300262: sheet_white2x_131
+    21300264: sheet_white2x_132
+    21300266: sheet_white2x_133
+    21300268: sheet_white2x_134
+    21300270: sheet_white2x_135
+    21300272: sheet_white2x_136
+    21300274: sheet_white2x_137
+    21300276: sheet_white2x_138
+    21300278: sheet_white2x_139
+    21300280: sheet_white2x_140
+    21300282: sheet_white2x_141
+    21300284: sheet_white2x_142
+    21300286: sheet_white2x_143
+    21300288: sheet_white2x_144
+    21300290: sheet_white2x_145
+    21300292: sheet_white2x_146
+    21300294: sheet_white2x_147
+    21300296: sheet_white2x_148
+    21300298: sheet_white2x_149
+    21300300: sheet_white2x_150
+    21300302: sheet_white2x_151
+    21300304: sheet_white2x_152
+    21300306: sheet_white2x_153
+    21300308: sheet_white2x_154
+    21300310: sheet_white2x_155
+    21300312: sheet_white2x_156
+    21300314: sheet_white2x_157
+    21300316: sheet_white2x_158
+    21300318: Config
+    21300320: Player
+    21300322: SpeedForward
+    21300324: Plus
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 866
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Config
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 262
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 762
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedForward
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1662
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Plus
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1062
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
