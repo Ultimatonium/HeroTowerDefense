@@ -3,6 +3,9 @@ competitive tower defense game
 
 ![screenshot](./screenshot.PNG)
 
+## YouTube
+[![YouTube](https://img.youtube.com/vi/TP8I3G9_aos/0.jpg)](https://youtu.be/TP8I3G9_aos)
+
 ## Built With
 * [Unity](https://unity.com/) - real-time 3D development platform
 
