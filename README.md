@@ -25,6 +25,6 @@ competitive tower defense game
 * [Comic Neue](http://www.comicneue.com/)
 
 ## Author
- * [Ultimatonium(me)](@Ultimatonium)
+ * [Ultimatonium (me)](https://github.com/Ultimatonium)
  * [Lexikus](https://github.com/Lexikus)
  * [Ronny]
