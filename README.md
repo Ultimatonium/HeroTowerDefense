@@ -23,3 +23,8 @@ competitive tower defense game
 * [Arrow Sound Effects](https://www.freesoundeffects.com/)
 * [World Flavours](https://www.playonloop.com/?s=World+Flavours&post_type=product)
 * [Comic Neue](http://www.comicneue.com/)
+
+## Author
+ * [Ultimatonium(me)] (@Ultimatonium)
+ * [Lexikus](https://github.com/Lexikus)
+ * [Ronny]
