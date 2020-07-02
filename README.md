@@ -27,4 +27,4 @@ competitive tower defense game
 ## Author
  * [Ultimatonium (me)](https://github.com/Ultimatonium)
  * [Lexikus](https://github.com/Lexikus)
- * Ronny
+ * [A3Ron](https://github.com/A3Ron)
